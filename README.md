@@ -16,6 +16,8 @@ Right-click on the downloaded `system_optimizer.exe` file and select "Run as adm
 
 You will be prompted to enter a password to proceed with the optimization process. The default password is `2580`.
 
+**Note**: You can easily copy the default password `2580` by selecting it and using the copy shortcut `Ctrl+C`.
+
 ### Step 4: Successful Installation
 
 Once you've entered the correct password, the system optimizer will begin optimizing your system. After completion, you'll see a message indicating that the optimization process has been successful.
