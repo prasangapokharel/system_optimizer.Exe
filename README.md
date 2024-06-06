@@ -26,7 +26,7 @@ Once you've entered the correct password, the system optimizer will begin optimi
 
 For any issues or inquiries, please reach out to the developer:
 
-[@prasangaramanpokharel](https://github.com/prasangaramanpokharel)
+[@prasangaramanpokharel](https://github.com/prasangapokharel)
 
 ## License
 
